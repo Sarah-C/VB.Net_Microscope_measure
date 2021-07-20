@@ -1,0 +1,40 @@
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Queens_ImageControl\bin\Debug\Queens_ImageControl.dll
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Queens_ImageControl\bin\Debug\Queens_ImageControl.pdb
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Queens_ImageControl\bin\Debug\Queens_ImageControl.xml
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Queens_ImageControl\obj\Debug\Queens_ImageControl.ImageControl.resources
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Queens_ImageControl\obj\Debug\Queens_ImageControl.Resources.resources
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Queens_ImageControl\obj\Debug\Queens_ImageControl.DrawingBoard.resources
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Queens_ImageControl\obj\Debug\ImageControl.vbproj.GenerateResource.Cache
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Queens_ImageControl\obj\Debug\Queens_ImageControl.dll
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Queens_ImageControl\obj\Debug\Queens_ImageControl.xml
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Queens_ImageControl\obj\Debug\Queens_ImageControl.pdb
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Queens_ImageControl\bin\Debug\Queens_ImageControl.dll
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Queens_ImageControl\bin\Debug\Queens_ImageControl.pdb
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Queens_ImageControl\bin\Debug\Queens_ImageControl.xml
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Queens_ImageControl\obj\Debug\Queens_ImageControl.ImageControl.resources
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Queens_ImageControl\obj\Debug\Queens_ImageControl.Resources.resources
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Queens_ImageControl\obj\Debug\Queens_ImageControl.DrawingBoard.resources
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Queens_ImageControl\obj\Debug\ImageControl.vbproj.GenerateResource.Cache
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Queens_ImageControl\obj\Debug\Queens_ImageControl.dll
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Queens_ImageControl\obj\Debug\Queens_ImageControl.xml
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Queens_ImageControl\obj\Debug\Queens_ImageControl.pdb
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MeasureImageControl\bin\Debug\Queens_ImageControl.dll
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MeasureImageControl\bin\Debug\Queens_ImageControl.pdb
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MeasureImageControl\bin\Debug\Queens_ImageControl.xml
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MeasureImageControl\obj\Debug\Queens_ImageControl.ImageControl.resources
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MeasureImageControl\obj\Debug\Queens_ImageControl.Resources.resources
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MeasureImageControl\obj\Debug\Queens_ImageControl.DrawingBoard.resources
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MeasureImageControl\obj\Debug\ImageControl.vbproj.GenerateResource.Cache
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MeasureImageControl\obj\Debug\Queens_ImageControl.dll
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MeasureImageControl\obj\Debug\Queens_ImageControl.xml
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MeasureImageControl\obj\Debug\Queens_ImageControl.pdb
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MeasureImageControl\obj\Debug\ImageControl.vbproj.GenerateResource.Cache
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MeasureImageControl\obj\Debug\ImageControl.ImageControl.resources
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MeasureImageControl\obj\Debug\ImageControl.Resources.resources
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MeasureImageControl\obj\Debug\ImageControl.DrawingBoard.resources
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MeasureImageControl\bin\Debug\ImageControl.dll
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MeasureImageControl\bin\Debug\ImageControl.pdb
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MeasureImageControl\bin\Debug\ImageControl.xml
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MeasureImageControl\obj\Debug\ImageControl.dll
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MeasureImageControl\obj\Debug\ImageControl.xml
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MeasureImageControl\obj\Debug\ImageControl.pdb

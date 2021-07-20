@@ -1,0 +1,26 @@
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Test Harness\bin\Debug\Test Harness.exe
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Test Harness\bin\Debug\Test Harness.pdb
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Test Harness\bin\Debug\Test Harness.xml
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Test Harness\bin\Debug\Queens_ImageControl.dll
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Test Harness\bin\Debug\Queens_ImageControl.pdb
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Test Harness\bin\Debug\Queens_ImageControl.xml
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Test Harness\obj\Debug\Test Harness.vbprojResolveAssemblyReference.cache
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Test Harness\obj\Debug\Test_Harness.Form1.resources
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Test Harness\obj\Debug\Test_Harness.Resources.resources
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Test Harness\obj\Debug\Test Harness.vbproj.GenerateResource.Cache
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Test Harness\obj\Debug\Test Harness.exe
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Test Harness\obj\Debug\Test Harness.xml
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Test Harness\obj\Debug\Test Harness.pdb
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Test Harness\obj\Debug\Test Harness.exe
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Test Harness\obj\Debug\Test Harness.xml
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Test Harness\obj\Debug\Test Harness.pdb
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Test Harness\bin\Debug\Test Harness.exe
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Test Harness\bin\Debug\Test Harness.pdb
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Test Harness\bin\Debug\Test Harness.xml
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Test Harness\bin\Debug\Queens_ImageControl.dll
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Test Harness\bin\Debug\Queens_ImageControl.pdb
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Test Harness\bin\Debug\Queens_ImageControl.xml
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Test Harness\obj\Debug\Test Harness.vbprojResolveAssemblyReference.cache
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Test Harness\obj\Debug\Test_Harness.Form1.resources
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Test Harness\obj\Debug\Test_Harness.Resources.resources
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\Test Harness\obj\Debug\Test Harness.vbproj.GenerateResource.Cache

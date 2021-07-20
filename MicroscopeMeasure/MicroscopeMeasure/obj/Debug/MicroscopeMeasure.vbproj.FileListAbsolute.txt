@@ -1,0 +1,27 @@
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MicroscopeMeasure\obj\Debug\Test Harness.exe
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MicroscopeMeasure\obj\Debug\Test Harness.xml
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MicroscopeMeasure\obj\Debug\Test Harness.pdb
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MicroscopeMeasure\bin\Debug\Test Harness.exe
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MicroscopeMeasure\bin\Debug\Test Harness.pdb
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MicroscopeMeasure\bin\Debug\Test Harness.xml
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MicroscopeMeasure\bin\Debug\Queens_ImageControl.dll
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MicroscopeMeasure\bin\Debug\Queens_ImageControl.pdb
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MicroscopeMeasure\bin\Debug\Queens_ImageControl.xml
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MicroscopeMeasure\obj\Debug\MicroscopeMeasure.vbprojResolveAssemblyReference.cache
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MicroscopeMeasure\obj\Debug\Test_Harness.Resources.resources
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MicroscopeMeasure\obj\Debug\MicroscopeMeasure.vbproj.GenerateResource.Cache
+C:\Users\Sarah\Documents\Visual Studio 2013\Projects\MicroscopeMeasure\MicroscopeMeasure\obj\Debug\Test_Harness.Form_Measurement.resources
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MicroscopeMeasure\obj\Debug\MicroscopeMeasure.vbprojResolveAssemblyReference.cache
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MicroscopeMeasure\obj\Debug\MicroscopeMeasure.vbproj.GenerateResource.Cache
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MicroscopeMeasure\bin\Debug\ImageControl.dll
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MicroscopeMeasure\bin\Debug\ImageControl.pdb
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MicroscopeMeasure\bin\Debug\ImageControl.xml
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MicroscopeMeasure\bin\Debug\MicroscopeMeasure.exe.config
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MicroscopeMeasure\obj\Debug\MicroscopeMeasure.Form_Measurement.resources
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MicroscopeMeasure\obj\Debug\MicroscopeMeasure.Resources.resources
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MicroscopeMeasure\bin\Debug\MicroscopeMeasure.exe
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MicroscopeMeasure\bin\Debug\MicroscopeMeasure.pdb
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MicroscopeMeasure\bin\Debug\MicroscopeMeasure.xml
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MicroscopeMeasure\obj\Debug\MicroscopeMeasure.exe
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MicroscopeMeasure\obj\Debug\MicroscopeMeasure.xml
+C:\Users\Sarahc\Documents\Visual Studio 2010\Projects\MicroscopeMeasure\MicroscopeMeasure\obj\Debug\MicroscopeMeasure.pdb

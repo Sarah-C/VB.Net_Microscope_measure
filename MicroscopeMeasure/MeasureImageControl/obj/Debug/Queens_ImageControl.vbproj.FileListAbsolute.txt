@@ -1,0 +1,10 @@
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Queens_ImageControl\bin\Debug\Queens_ImageControl.dll
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Queens_ImageControl\bin\Debug\Queens_ImageControl.pdb
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Queens_ImageControl\bin\Debug\Queens_ImageControl.xml
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Queens_ImageControl\obj\Debug\Queens_ImageControl.ImageControl.resources
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Queens_ImageControl\obj\Debug\Queens_ImageControl.Resources.resources
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Queens_ImageControl\obj\Debug\Queens_ImageControl.DrawingBoard.resources
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Queens_ImageControl\obj\Debug\Queens_ImageControl.vbproj.GenerateResource.Cache
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Queens_ImageControl\obj\Debug\Queens_ImageControl.dll
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Queens_ImageControl\obj\Debug\Queens_ImageControl.xml
+C:\Users\Sarahc\Desktop\Queens_ImageControl_VS2005VB\Queens_ImageControl\obj\Debug\Queens_ImageControl.pdb
